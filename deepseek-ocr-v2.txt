@@ -4,4 +4,4 @@ tokenizers==0.20.3
 einops
 addict
 easydict
-flash-attn==2.7.3 --no-build-isolation
+# post-install: flash-attn==2.7.3 --no-build-isolation
